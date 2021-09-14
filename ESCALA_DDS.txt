@@ -1,0 +1,210 @@
+Data: 1
+Operador da manhã: RUBENS
+Operador da tarde: LUCAS
+Operador da noite: ANDRÉ
+
+=======================================
+
+Data: 2
+Operador da manhã: NEILSON
+Operador da tarde: MACIEL
+Operador da noite: DANIEL
+
+=======================================
+
+Data: 3
+Operador da manhã: SAMUEL
+Operador da tarde: ORLEAN
+Operador da noite: ADISSON
+
+=======================================
+
+Data: 4
+Operador da manhã: MARCO ANTONIO
+Operador da tarde: CRISTIAN
+Operador da noite: MACIEL
+
+=======================================
+
+Data: 5
+Operador da manhã: RONALD
+Operador da tarde: CRISTIAN
+Operador da noite: JOÃO PAULO
+
+=======================================
+
+Data: 6
+Operador da manhã: FÁBIO
+Operador da tarde: AISLAN
+Operador da noite: NEILSON
+
+=======================================
+
+Data: 7
+Operador da manhã: ADISSON
+Operador da tarde: JANISON
+Operador da noite: ROBSON
+
+=======================================
+
+Data: 8
+Operador da manhã: DANIEL
+Operador da tarde: AISLAN
+Operador da noite: CESAR
+
+=======================================
+
+Data: 9
+Operador da manhã: BRUNO DIAS
+Operador da tarde: GABRIEL
+Operador da noite: JANISON
+
+=======================================
+
+Data: 10
+Operador da manhã: SAMUEL
+Operador da tarde: DANIEL
+Operador da noite: RONALD
+
+=======================================
+
+Data: 11
+Operador da manhã: NEILSON
+Operador da tarde: CRISTIAN
+Operador da noite: ANDRÉ
+
+=======================================
+
+Data: 12
+Operador da manhã: BRUNO DIAS
+Operador da tarde: NEILSON
+Operador da noite: DANIEL
+
+=======================================
+
+Data: 13
+Operador da manhã: REGIVAN
+Operador da tarde: NEILSON
+Operador da noite: MACIEL
+
+=======================================
+
+Data: 14
+Operador da manhã: RONALD
+Operador da tarde: SÉRGIO
+Operador da noite: RUBENS
+
+=======================================
+
+Data: 15
+Operador da manhã: FÁBIO
+Operador da tarde: CESAR
+Operador da noite: RUBENS
+
+=======================================
+
+Data: 16
+Operador da manhã: GABRIEL
+Operador da tarde: REGIVAN
+Operador da noite: CESAR
+
+=======================================
+
+Data: 17
+Operador da manhã: ADISSON
+Operador da tarde: RONALD
+Operador da noite: ROBSON
+
+=======================================
+
+Data: 18
+Operador da manhã: MACIEL
+Operador da tarde: GABRIEL
+Operador da noite: RONALD
+
+=======================================
+
+Data: 19
+Operador da manhã: CRISTIAN
+Operador da tarde: LUCAS
+Operador da noite: JANISON
+
+=======================================
+
+Data: 20
+Operador da manhã: ORLEAN
+Operador da tarde: GABRIEL
+Operador da noite: ANDRÉ
+
+=======================================
+
+Data: 21
+Operador da manhã: EVERTON
+Operador da tarde: JOÃO PAULO
+Operador da noite: DANIEL
+
+=======================================
+
+Data: 22
+Operador da manhã: ROBSON
+Operador da tarde: ORLEAN
+Operador da noite: NEILSON
+
+=======================================
+
+Data: 23
+Operador da manhã: MARCO ANTONIO
+Operador da tarde: JOÃO PAULO
+Operador da noite: NEILSON
+
+=======================================
+
+Data: 24
+Operador da manhã: SAMUEL
+Operador da tarde: REGIVAN
+Operador da noite: SÉRGIO
+
+=======================================
+
+Data: 25
+Operador da manhã: LUCAS
+Operador da tarde: REGIVAN
+Operador da noite: CESAR
+
+=======================================
+
+Data: 26
+Operador da manhã: ADISSON
+Operador da tarde: MARCO ANTONIO
+Operador da noite: REGIVAN
+
+=======================================
+
+Data: 27
+Operador da manhã: CRISTIAN
+Operador da tarde: LUCAS
+Operador da noite: REGIVAN
+
+=======================================
+
+Data: 28
+Operador da manhã: SÉRGIO
+Operador da tarde: MACIEL
+Operador da noite: RONALD
+
+=======================================
+
+Data: 29
+Operador da manhã: SAMUEL
+Operador da tarde: FÁBIO
+Operador da noite: ADISSON
+
+=======================================
+
+Data: 30
+Operador da manhã: ROBSON
+Operador da tarde: SÉRGIO
+Operador da noite: DANIEL
+
+=======================================
+
